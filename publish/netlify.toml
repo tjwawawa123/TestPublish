@@ -1,5 +1,5 @@
 [build]
-  publish = "build/"
+  publish = "/"
 [[headers]]
   for = "/Build/*.data.gz"
   [headers.values]
